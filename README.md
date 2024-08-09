@@ -5,9 +5,9 @@
 
 👨‍💻 Trainee Software Dev. Analyst @ FIT
 
-🔭 Currently working with Spring Boot 🍃
+🔭 Currently working with GoLang 🍃
 
-🌱 Studying Spring Boot
+🌱 Studying Go
 
 <br>
 
